@@ -25,3 +25,4 @@ func part1(_ banks: [[Int]]) {
 }
 
 part1(values) //17031
+
